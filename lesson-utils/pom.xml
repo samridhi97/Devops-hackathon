@@ -32,6 +32,12 @@
         </dependency>
 
     </dependencies>
+         <repositories>
+     <repository>
+      <id>my-internal-site</id>
+      <url>http://watt-db1.workfusion.com/nexus/content/repositories/ml-sdk/</url>
+     </repository>
+    </repositories>
 
 
 </project>
